@@ -1,4 +1,0 @@
-rq
-rq-dashboard
-scrapli
-scrapli-community
